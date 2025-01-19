@@ -1,4 +1,6 @@
 # GitLens &mdash; Supercharge Git in VS Code
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fvscode-gitlens.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fvscode-gitlens?ref=badge_shield)
+
 
 > Supercharge Git and unlock **untapped knowledge** within your repository to better **understand**, **write**, and **review** code. Focus, collaborate, accelerate.
 
@@ -464,3 +466,6 @@ This repository contains both OSS-licensed and non-OSS-licensed files.
 All files in or under any directory named "plus" fall under LICENSE.plus.
 
 The remaining files fall under the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fvscode-gitlens.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fvscode-gitlens?ref=badge_large)
